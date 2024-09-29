@@ -1,0 +1,2 @@
+standard,1,2GB,500
+standard1,22,we,ew
